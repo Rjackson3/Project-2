@@ -16,9 +16,9 @@ p, li{
   clear: both;
 }
 .title{ 
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'Times New Roman', cursive;
   font-size: 4.6875em;
-  color: #30BFBF;
+  color: #000000;
   margin: 0em;
 }
 #wrapper {
